@@ -8,8 +8,7 @@ Studying at the University of Guelph. I have a strong background in graphic desi
 
 * 🌍  I'm based in Toronto, CA
 * ✉️  You can contact me at [jorgejacobrubio@gmail.com](mailto:jorgejacobrubio@gmail.com)
-* 🚀  I'm currently working on [Profileify](https://github.com/Jorioz/profileify-app)
-* 🧠  I'm learning MERN Stack
+* 🚀  I'm currently working on [stem player clone]([https://github.com/Jorioz/profileify-app](https://stem-player.vercel.app/))
 * ⚡  Love music & collecting vinyl!
 
 ### Skills
