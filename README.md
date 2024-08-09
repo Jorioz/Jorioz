@@ -1,7 +1,10 @@
-![Comp 1](https://github.com/user-attachments/assets/86c3ecce-3bda-4dc9-a903-b45e61e8a24f)
-![blocks](https://github.com/user-attachments/assets/1faadf44-aa21-421c-af5f-eba671a3bc83)
+![JorioSpin](https://github.com/user-attachments/assets/dfac3500-450e-4b58-958c-66ec87157644)
+![blocks](https://github.com/user-attachments/assets/b6f2593a-7266-459d-b0c1-d058cf3d85d9)
 
 <div align="center">
 
 | <samp><h1 align="left"> ~~⠀⠀⠀~~ frontend web</br>developer & ~~⠀⠀⠀⠀~~</br>designer ~~⠀⠀⠀⠀⠀⠀⠀~~</br> ~~⠀~~ student based ~~⠀~~</br>~~⠀⠀⠀~~ in toronto ~~⠀~~</br> ~~⠀⠀⠀⠀⠀⠀⠀⠀~~ canada</h1></samp> |【=◈︿◈=】  | <samp><h1 align="left">i study at ~~⠀⠀⠀⠀⠀~~</br>~~⠀⠀~~ the university</br>~~⠀⠀⠀⠀⠀⠀~~ of guelph</br>~~⠀⠀~~ majoring in ~~⠀~~</br>~~⠀⠀⠀⠀~~ software ~~⠀⠀~~</br>engineering ~~⠀⠀⠀⠀~~</h1></samp>
 :---: | :---: | :---:
+
+<sup>**[alt]** frontend web developer & designer student based in toronto canada.</br>i study at the university of guelph majoring in software engineering.</sup>
+
