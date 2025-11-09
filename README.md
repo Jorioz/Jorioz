@@ -3,7 +3,7 @@
 
 <div align="center">
 
-Software Engineering student. Web Dev & Data Science enjoyer
+Software Engineering student. Web Dev Enjoyer
 
 <h2>I enjoy using:</h2>
 <p align="center">
